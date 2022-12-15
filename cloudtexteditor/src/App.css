@@ -1,0 +1,16 @@
+.flex-container{
+  display: flex;
+  border-bottom: 1px solid black;
+}
+
+.flex-item{
+  flex: 1;
+}
+
+h3{
+  text-align: center;
+}
+/* .code-view{
+  flex-grow: 3;
+} */
+
